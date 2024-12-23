@@ -23,7 +23,7 @@ Ensure you have the following installed on your system:
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/telegram-bot.git
+git clone https://github.com/cipherblack/rust-telegram-bot.git
 cd telegram-bot
 ```
 
